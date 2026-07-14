@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfuzzy_limiter.a CMakeFiles/fuzzy_limiter.dir/currentLim/currentLim.c.o CMakeFiles/fuzzy_limiter.dir/currentLim/currentLim_data.c.o CMakeFiles/fuzzy_limiter.dir/currentLim/currentLim_initialize.c.o CMakeFiles/fuzzy_limiter.dir/currentLim/currentLim_terminate.c.o CMakeFiles/fuzzy_limiter.dir/currentLim/evalfis.c.o CMakeFiles/fuzzy_limiter.dir/currentLim/rtGetInf.c.o CMakeFiles/fuzzy_limiter.dir/currentLim/rtGetNaN.c.o CMakeFiles/fuzzy_limiter.dir/currentLim/rt_nonfinite.c.o CMakeFiles/fuzzy_limiter.dir/currentLim/trapmf.c.o
+/usr/bin/ranlib libfuzzy_limiter.a

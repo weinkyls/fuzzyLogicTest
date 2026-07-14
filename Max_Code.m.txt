@@ -1,0 +1,8 @@
+function fuzzyOutput = getCurrentLim(temp_cell, rpm_mot, energy_margin)
+
+    fis = readfis("new_temp5.fis");
+    
+    % Evaluate Fuzzy Controller
+    fuzzyOutput = evalfis(fis, [temp_cell rpm_mot energy_margin]);
+    
+end

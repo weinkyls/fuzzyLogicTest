@@ -1,0 +1,4 @@
+/home/weinkyls/Documents/04_soc_temp/UGR26/fuzzy logic/build/CMakeFiles/fuzzy_limiter.dir
+/home/weinkyls/Documents/04_soc_temp/UGR26/fuzzy logic/build/CMakeFiles/getCurrentLim.dir
+/home/weinkyls/Documents/04_soc_temp/UGR26/fuzzy logic/build/CMakeFiles/edit_cache.dir
+/home/weinkyls/Documents/04_soc_temp/UGR26/fuzzy logic/build/CMakeFiles/rebuild_cache.dir
