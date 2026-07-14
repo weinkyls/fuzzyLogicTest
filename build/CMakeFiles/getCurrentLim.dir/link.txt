@@ -1,1 +1,0 @@
-/usr/bin/cc -Wl,--dependency-file=CMakeFiles/getCurrentLim.dir/link.d CMakeFiles/getCurrentLim.dir/main.c.o -o getCurrentLim  libfuzzy_limiter.a
